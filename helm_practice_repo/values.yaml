@@ -1,0 +1,11 @@
+webapp:
+  image: manojvaibhav2019/dms-demo:v3
+
+ingress:
+  host: webapp.manojcloud.shop
+
+replicaCount: 13
+
+app:
+  env:
+    value: dev
