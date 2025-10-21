@@ -1,5 +1,5 @@
 webapp:
-  image: manojvaibhav2019/dms-demo:v3
+  image: manojvaibhav2019/dms-demo:v1
 
 ingress:
   host: webapp.manojcloud.shop
