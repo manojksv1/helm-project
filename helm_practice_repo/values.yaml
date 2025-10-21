@@ -4,7 +4,7 @@ webapp:
 ingress:
   host: webapp.manojcloud.shop
 
-replicaCount: 13
+replicaCount: 3
 
 app:
   env:
